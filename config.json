@@ -1,5 +1,8 @@
 {
 	"ip":"RegnumCubicum.aternos.me",
 	"port": "31266",
-	"name": "Zucki"
+	"name": "Zucki",
+	"login-enabled":"true",
+	"register-cmd":"/register (lolo2020) (lolo2020)",
+	"login-cmd":"/login (lolo2020)"
 }
